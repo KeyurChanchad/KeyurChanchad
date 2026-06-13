@@ -1,5 +1,32 @@
 ### 💫 About Me:
-#### About Me<br><br>Hey there! 👋 I'm Keyur Chanchad, a passionate software developer with a focus on mobile app development. Currently, I'm deeply immersed in the world of React Native and working on building awesome cross-platform applications that provide a seamless user experience.<br><br>#### 🔧 What I'm Currently Working On<br><br>I'm actively working on developing a Rising adventure React Native project that aims to revolutionize how people interact with adventure and travelling apps. The app will utilize the latest features of React Native to deliver a smooth and responsive user interface. I'm always open to feedback and new ideas to make this project even better.<br><br>#### 👥 I'm Looking to Collaborate On<br><br>I'm enthusiastic about collaborating with like-minded developers and designers on exciting projects. If you have a cool React Native or mobile app project in mind and need an extra pair of hands, count me in! I love contributing to open-source projects and sharing knowledge with the community.<br><br>#### 🙏 I'm Looking for Help With<br><br>While I'm quite confident in my React Native skills, I'm always looking to improve and learn from others. If you're an experienced React Native developer or have expertise in mobile app development, I'd appreciate any guidance or mentorship you can offer. Let's grow together!<br><br>Let's connect and build amazing things together! Feel free to reach out via [your preferred contact method, like email or Twitter handle].<br>
+
+🚀 Full Stack Developer with 4+ years of experience building scalable web and mobile applications.
+
+💻 Specializing in:
+
+⚛️ React.js & React Native
+🟢 Node.js & Express.js
+📘 TypeScript & JavaScript
+🍃 MongoDB & PostgreSQL
+🔥 Firebase & Google Cloud
+
+🔧 Experienced in developing:
+
+Cross-platform Mobile Applications
+RESTful APIs & Backend Systems
+Admin Panels & Dashboards
+SaaS Platforms
+Real-time Applications
+
+🌱 Currently exploring:
+
+System Design & Microservices
+AI-Powered Applications
+Cloud Architecture & DevOps
+
+🤝 Open to collaborating on innovative web and mobile projects.
+
+📫 Reach me: chanchadkeyur2001@gmail.com<br>
 
 
 ### 🌐 Socials:
